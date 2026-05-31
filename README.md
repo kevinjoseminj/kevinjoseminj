@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinjoseminj&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/kevin-jose-minj/"><img src="https://img.shields.io/badge/LinkedIn-kevin--jose--minj-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Location-Romford%2C%20UK-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Experience-4.3+Years-BF91F3?style=flat-square&logo=python&logoColor=white" alt="Experience" />
 </div>
 
@@ -21,10 +20,7 @@
 class KevinJoseMinj:
     def __init__(self):
         self.name        = "Kevin Jose Minj"
-        self.location    = "Romford, UK 🇬🇧"
-        self.email       = "kevinjoseminj@gmail.com"
         self.degree      = "BCA – Mahatma Gandhi University"
-        self.right_to_work = "Eligible to work in the UK ✅"
 
         self.stack = [
             "Python", "FastAPI", "Django",
@@ -143,7 +139,7 @@ class KevinJoseMinj:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Abhar Technology & Consulting — Senior Software Associate</b> &nbsp;|&nbsp; Sep 2022 – Nov 2025 &nbsp;|&nbsp; Bengaluru, India</summary>
+<summary><b>🏢 Abhar Technology & Consulting — Senior Software Associate</b> &nbsp;|&nbsp; Sep 2022 – Nov 2025</summary>
 
 <br/>
 
@@ -165,7 +161,7 @@ class KevinJoseMinj:
 </details>
 
 <details>
-<summary><b>🏢 Insphere Ideas Pvt Ltd — Python Developer</b> &nbsp;|&nbsp; Aug 2021 – Sep 2022 &nbsp;|&nbsp; Bengaluru, India</summary>
+<summary><b>🏢 Insphere Ideas Pvt Ltd — Python Developer</b> &nbsp;|&nbsp; Aug 2021 – Sep 2022</summary>
 
 <br/>
 
@@ -211,7 +207,6 @@ class KevinJoseMinj:
 | 🏭 | **Enterprise Scale** | Delivered ERP solution serving **200+ concurrent users** |
 | 🔗 | **MCP Pioneer** | Built Model Context Protocol integrations connecting LLM agents to external tools & services |
 | ☁️ | **Zero-Downtime DevOps** | Established full AWS + Docker + CI/CD practice with zero-downtime deployments |
-| 🌐 | **Right to Work UK** | Eligible to work in the UK — no sponsorship required |
 
 </div>
 
@@ -221,7 +216,7 @@ class KevinJoseMinj:
 
 <div align="center">
 
-| Degree | Institution | Year | 
+| Degree | Institution | Year |
 |:------:|:-----------:|:----:|
 | **Bachelor of Computer Applications (BCA)** | Mahatma Gandhi University, India | 2017 – 2020 |
 
@@ -243,9 +238,7 @@ class KevinJoseMinj:
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:kevinjoseminj@gmail.com"><img src="https://img.shields.io/badge/Gmail-kevinjoseminj-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kevin-jose-minj/"><img src="https://img.shields.io/badge/LinkedIn-kevin--jose--minj-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Based_in-Romford%2C_UK-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
 
 <br/>
